@@ -100,7 +100,7 @@ This project is licensed under the MIT License.
 
 ## 💌 Connect With Me
 👩‍💻 **Siddhika Savant**
-🔗 [LinkedIn] (https://www.linkedin.com/in/siddhika-savant-b262352a9/)
-💻 [GitHub] (https://github.com/siddhikasavant)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhika-savant-b262352a9/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/siddhikasavant)
 
 ---
